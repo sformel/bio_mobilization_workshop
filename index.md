@@ -7,9 +7,9 @@ OBIS-USA, IOOS, Hakai, CIOOS, MBON, OTN, OBIS, Caribbean-OBIS, OBIS-Chile
 
 Online
 
-April 22-23, 2024
+November 4-6, 2025
 
-13:00 - 17:00 EDT
+12:00 - 15:00 EDT
 
 **Instructors:** 
 Mathew Biddle, 
@@ -114,7 +114,7 @@ The videos created for the Marine Biological Data Mobilization Workshop can be f
 | Time  | Session                                                                                               |
 |-------|-------------------------------------------------------------------------------------------------------|
 | 12:00 | eMOF: controlled vocab                                                                                |
-| 13:30 | Social Break                                                                                          |
+| 13:30 | Break                                                                                          |
 | 14:00 | Publishing / IPT                                                                                      |
 | 15:00 | Finish                                                                                                |
 | End   | Post-workshop help & survey                                                                           |
@@ -124,6 +124,6 @@ The videos created for the Marine Biological Data Mobilization Workshop can be f
 | Time  | Session                                                                                               |
 |-------|-------------------------------------------------------------------------------------------------------|
 | 12:00 | Special presentations on specific observation types                                                   |
-| 13:30 | Social Break                                                                                          |
+| 13:30 | Break                                                                                          |
 | 14:00 | Working session, Q&A                                                                                  |
 | 15:00 | Finish                                                                                                |
