@@ -77,8 +77,8 @@ this [two minute video](https://youtu.be/E6NblAC-1uE) and this [two minute video
 share them with those you want to work with to share data.
 
 **When:**
-April 22-23, 2024.
-April 24th will be an optional day to attend for Workshop Participants if they require additional help.
+November 4-6, 2025.
+November 6th will be an optional day to attend for Workshop Participants if they require additional help.
 
 **Requirements:**
 
@@ -100,27 +100,30 @@ __Times are in EDT.__
 
 The videos created for the Marine Biological Data Mobilization Workshop can be found in [this playlist](https://youtube.com/playlist?list=PLlgUwSvpCFS7zytaWbZ6f4Szm3PnpFj_J).
 
-### April 22
+### November 4
 
-| 13:00 | Introduction to Darwin Core                                                                                                                                                                                                                                                          |
-|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 13:10 | <br>          Breakout Rooms<br>          <br>            Darwin Core Terms 1<br>            Darwin Core Terms 2<br>            Data Cleaning<br>            WoRMS lookup<br>            Creating the Schema<br>            QA/QC, Metadata and Publishing<br>          <br>         |
-| 14:30 | Social Break                                                                                                                                                                                                                                                                         |
-| 15:00 | Data Cleaning                                                                                                                                                                                                                                                                        |
-| 15:10 | <br>          Breakout Rooms<br>          <br>            Darwin Core Terms 1<br>            Darwin Core Terms 2<br>            Data Cleaning<br>            WoRMS lookup<br>            Creating the Schema<br>            QA/QC, Metadata and Publishing<br>          <br>         |
-| 16:30 | Return to Main Room                                                                                                                                                                                                                                                                  |
-| 17:00 | Finish                                                                                                                                                                                                                                                                               |
+| Time  | Session                                                                                               |
+|-------|-------------------------------------------------------------------------------------------------------|
+| 12:00 | Quick intro to Darwin Core. Event Core: eventIDs, cleaning date/time, lat/long                        |
+| 13:30 | Break                                                                                                 |
+| 15:00 | Occurrence: WoRMS (API), matching names, QA/QC                                                      | |
+| 17:00 | Finish                                                                                               |
 
-### April 23
+### November 5
 
-| 13:00 | Darwin Core and Extension Schemas                                                                                                                                                                                                                                                           |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 13:10 | <br>          Breakout Rooms<br>          <br>            Darwin Core Terms / WoRMS<br>            Data Cleaning<br>            Creating the Schema<br>            QA/QC, Metadata and Publishing<br>            DNA Derived Data<br>            Animal Telemetry<br>          <br>         |
-| 14:30 | Social Break                                                                                                                                                                                                                                                                                |
-| 15:00 | QA QC                                                                                                                                                                                                                                                                                       |
-| 15:10 | Metadata and publishing                                                                                                                                                                                                                                                                     |
-| 15:20 | <br>          Breakout Rooms<br>          <br>            Darwin Core Terms / WoRMS<br>            Data Cleaning<br>            Creating the Schema<br>            QA/QC, Metadata and Publishing<br>            DNA Derived Data<br>            Animal Telemetry<br>          <br>         |
-| 16:30 | Return to Main Room                                                                                                                                                                                                                                                                         |
-| 17:00 | Finish                                                                                                                                                                                                                                                                                      |
-| End   | Post-workshop help & survey                                                                                                                                                                                                                                                                 |
+| Time  | Session                                                                                               |
+|-------|-------------------------------------------------------------------------------------------------------|
+| 12:00 | eMOF: controlled vocab                                                                                |
+| 13:30 | Social Break                                                                                          |
+| 14:00 | Publishing / IPT                                                                                      |
+| 15:00 | Finish                                                                                                |
+| End   | Post-workshop help & survey                                                                           |
 
+### November 6
+
+| Time  | Session                                                                                               |
+|-------|-------------------------------------------------------------------------------------------------------|
+| 12:00 | Special presentations on specific observation types                                                   |
+| 13:30 | Social Break                                                                                          |
+| 14:00 | Working session, Q&A                                                                                  |
+| 15:00 | Finish                                                                                                |
